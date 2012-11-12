@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">AndroidBluetooth</string>
+    <string name="title_activity_main">AndroidBluetooth</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_device_list">Devices</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_device">DeviceActivity</string>
+    <string name="device_send">Send</string>
+    <string name="device_command_text_default">Device command</string>
+    <string name="device_name">Device Name</string>
+    <string name="device_status">Device Status</string>
+
+</resources>

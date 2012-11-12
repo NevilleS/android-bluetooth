@@ -1,0 +1,12 @@
+/************************************************************
+*                    Android Bluetooth                      *
+************************************************************/
+
+========================SUMMARY==============================
+
+Simple Android app to connect to a Bluetooth serial socket and send commands; companion to the Arduino Bluetooth sketch
+which is set up to listen to those commands.
+
+========================AUTHORS==============================
+Neville Samuell
+
